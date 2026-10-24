@@ -1,11 +1,11 @@
-# Date-A-Base Privacy Policy
+# What's Our Next? Privacy Policy
 
 **Effective date:** September 12, 2026  
-**Last updated:** September 12, 2026
+**Last updated:** October 24, 2026
 
-Date-A-Base ("Date-A-Base," "we," "our," or "us") provides a mobile application that creates suggested date itineraries based on information a user chooses to provide. This Privacy Policy explains what information the current pilot version of Date-A-Base handles, why it is used, when it is shared, and the choices available to users.
+What's Our Next? ("What's Our Next?," "we," "our," or "us") provides a mobile application that creates suggested date itineraries based on information a user chooses to provide. This Privacy Policy explains what information the current pilot version of What's Our Next? handles, why it is used, when it is shared, and the choices available to users.
 
-This policy applies to the Date-A-Base mobile application, its TestFlight versions, and the Date-A-Base planner API (collectively, the "Service").
+This policy applies to the What's Our Next? mobile application, its TestFlight versions, and the What's Our Next? planner API (collectively, the "Service").
 
 ## 1. Information we handle
 
@@ -25,13 +25,13 @@ Please do not enter names, contact information, health details, or other sensiti
 
 ### Location information
 
-Date-A-Base does not continuously track your location. If you tap **Use my location** and grant permission, the app obtains your foreground location once to identify an approximate current area and find nearby suggestions. The app may send the resulting coordinates and area label to the Date-A-Base planner API. You may decline location permission and manually enter a city or neighborhood instead.
+What's Our Next? does not continuously track your location. If you tap **Use my location** and grant permission, the app obtains your foreground location once to identify an approximate current area and find nearby suggestions. The app may send the resulting coordinates and area label to the What's Our Next? planner API. You may decline location permission and manually enter a city or neighborhood instead.
 
-The current OpenAI-backed planner uses the area label as an approximate search location. If a Google Gemini/Google Maps-backed planner is enabled in a future version, the coordinates may also be supplied to Google for nearby venue search. Date-A-Base does not use background location access.
+The current OpenAI-backed planner uses the area label as an approximate search location. If a Google Gemini/Google Maps-backed planner is enabled in a future version, the coordinates may also be supplied to Google for nearby venue search. What's Our Next? does not use background location access.
 
 ### Itinerary information stored on your device
 
-When you activate an itinerary, the app stores that itinerary locally on your device so it remains available when the app is reopened. It may include venue names, addresses, dates and times, preferences, estimated costs, and travel information. In the current pilot, Date-A-Base does not provide cloud accounts or server-side itinerary history.
+When you activate an itinerary, the app stores that itinerary locally on your device so it remains available when the app is reopened. It may include venue names, addresses, dates and times, preferences, estimated costs, and travel information. In the current pilot, What's Our Next? does not provide cloud accounts or server-side itinerary history.
 
 You can remove the active locally stored itinerary by ending the date in the app. Removing the app from your device also removes application data according to your device's operating-system behavior.
 
@@ -59,11 +59,11 @@ We do not sell personal information. We do not use your information for third-pa
 
 ## 3. AI-generated recommendations and service providers
 
-Date-A-Base sends planning information to its server-side itinerary provider to generate recommendations. The currently deployed pilot uses OpenAI's API with web search. Requests may include the selected area, date and time, timezone, mood, budget, dietary preferences, excluded venues, and relevant itinerary context. The API request is configured with `store: false`.
+What's Our Next? sends planning information to its server-side itinerary provider to generate recommendations. The currently deployed pilot uses OpenAI's API with web search. Requests may include the selected area, date and time, timezone, mood, budget, dietary preferences, excluded venues, and relevant itinerary context. The API request is configured with `store: false`.
 
 We use service providers only to perform functions for the Service. Current or supported providers include:
 
-- **Amazon Web Services (AWS):** hosts the Date-A-Base planner API and processes network traffic required to operate it. See the [AWS Privacy Notice](https://aws.amazon.com/privacy/).
+- **Amazon Web Services (AWS):** hosts the What's Our Next? planner API and processes network traffic required to operate it. See the [AWS Privacy Notice](https://aws.amazon.com/privacy/).
 - **OpenAI:** generates and grounds itinerary recommendations when the OpenAI planner is enabled. See [OpenAI's Privacy Policy](https://openai.com/policies/privacy-policy/) and [OpenAI's enterprise privacy information](https://openai.com/enterprise-privacy/).
 - **Apple:** distributes the iOS application and TestFlight builds and processes beta-testing information. See [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
 - **Google:** provides device geocoding through the operating environment and may provide Gemini and Google Maps grounding if that planner is enabled. See [Google's Privacy Policy](https://policies.google.com/privacy).
@@ -73,13 +73,13 @@ These providers process information under their own terms and privacy practices.
 
 ## 4. Data retention and deletion
 
-The current pilot does not maintain a Date-A-Base account database or intentionally retain a server-side itinerary history. Planning requests and results are processed to return the requested itinerary. OpenAI requests are sent with storage disabled in the API request.
+The current pilot does not maintain a What's Our Next? account database or intentionally retain a server-side itinerary history. Planning requests and results are processed to return the requested itinerary. OpenAI requests are sent with storage disabled in the API request.
 
 Our infrastructure and service providers may retain limited technical, security, error, or abuse-prevention records according to their configurations, legal obligations, and policies. We retain such records only as long as reasonably necessary for those purposes.
 
 Because the current pilot has no user accounts, there is no cloud account to delete. You can delete the active itinerary through the app and can remove other locally stored application data by deleting the app. To ask whether we hold information associated with a support interaction or TestFlight feedback, contact us using the method in Section 11.
 
-Before Date-A-Base introduces accounts, cloud history, subscriptions, analytics, or server-managed notifications, this policy will be updated to describe the additional information, retention periods, and account-deletion process.
+Before What's Our Next? introduces accounts, cloud history, subscriptions, analytics, or server-managed notifications, this policy will be updated to describe the additional information, retention periods, and account-deletion process.
 
 ## 5. Disclosure of information
 
@@ -90,7 +90,7 @@ We may disclose information:
 - when reasonably necessary to investigate fraud, abuse, security incidents, or threats to safety; or
 - as part of a merger, acquisition, financing, reorganization, or sale of assets, subject to appropriate notice and protections.
 
-We do not share planning information with other Date-A-Base users unless you deliberately use your device's sharing features. Review shared content carefully because an itinerary can reveal where and when you intend to be somewhere.
+We do not share planning information with other What's Our Next? users unless you deliberately use your device's sharing features. Review shared content carefully because an itinerary can reveal where and when you intend to be somewhere.
 
 ## 6. Your choices
 
@@ -110,7 +110,7 @@ We use reasonable administrative and technical measures intended to protect info
 
 ## 8. Children's privacy
 
-Date-A-Base is intended for adults and is not directed to children under 18. We do not knowingly collect personal information from children. If you believe a child has provided personal information through the Service, contact us so we can investigate and take appropriate action.
+What's Our Next? is intended for adults and is not directed to children under 18. We do not knowingly collect personal information from children. If you believe a child has provided personal information through the Service, contact us so we can investigate and take appropriate action.
 
 ## 9. United States operation and international transfers
 
@@ -126,7 +126,7 @@ We may update this Privacy Policy as the Service changes. We will post the revis
 
 Questions or privacy requests may be sent to:
 
-**Date-A-Base Privacy Contact**  
+**What's Our Next? Privacy Contact**  
 **Email:** smiley0418@gmail.com
 
 The privacy contact email must be completed before this policy is published or submitted as the application's privacy-policy URL.
