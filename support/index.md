@@ -1,8 +1,8 @@
-# Date-A-Base Support
+# What's Our Next? Support
 
-**Last updated:** September 12, 2026
+**Last updated:** October 24, 2026
 
-Date-A-Base uses AI-assisted search to create date itineraries based on a starting area, date and time, mood, budget, and optional dietary preferences. The application is currently available as a pilot through Apple TestFlight.
+What's Our Next? uses AI-assisted search to create date itineraries based on a starting area, date and time, mood, budget, and optional dietary preferences. The application is currently available as a pilot through Apple TestFlight.
 
 ## Contact support
 
@@ -13,31 +13,31 @@ When reporting a problem, please include:
 - a short description of what happened and what you expected;
 - the screen or feature you were using;
 - your device model and iOS version;
-- the Date-A-Base version and build number shown in TestFlight;
+- the What's Our Next? version and build number shown in TestFlight;
 - the exact error message, if one appeared; and
 - steps that reliably reproduce the problem.
 
 Screenshots are helpful, but remove or obscure precise locations, itinerary details, names, email addresses, and other personal information first. Never send passwords, API keys, payment-card information, or Apple Account credentials.
 
-Support is provided on a best-effort basis during the pilot. Date-A-Base is not an emergency, safety, reservation, navigation, or transportation service.
+Support is provided on a best-effort basis during the pilot. What's Our Next? is not an emergency, safety, reservation, navigation, or transportation service.
 
 ## Frequently asked questions
 
 ### How do I install or update the pilot?
 
-Install Apple's TestFlight app, open the invitation you received, and select **Accept** and then **Install**. When a new Date-A-Base build is available, update it from TestFlight. If an invitation has expired or does not open for the Apple Account you use with TestFlight, contact support.
+Install Apple's TestFlight app, open the invitation you received, and select **Accept** and then **Install**. When a new What's Our Next? build is available, update it from TestFlight. If an invitation has expired or does not open for the Apple Account you use with TestFlight, contact support.
 
-### Why can't Date-A-Base connect to the planner?
+### Why can't What's Our Next? connect to the planner?
 
-Itinerary generation requires internet access. Confirm that your device is online, close and reopen Date-A-Base, and try again. A temporary service or AI-provider issue may also prevent generation. If the problem continues, send support the displayed error and approximate time it occurred.
+Itinerary generation requires internet access. Confirm that your device is online, close and reopen What's Our Next?, and try again. A temporary service or AI-provider issue may also prevent generation. If the problem continues, send support the displayed error and approximate time it occurred.
 
-### Why isn't Date-A-Base finding ideas near me?
+### Why isn't What's Our Next? finding ideas near me?
 
 You can type a city or neighborhood without granting location permission. To use your current area on iPhone, open:
 
-**Settings → Privacy & Security → Location Services → Date-A-Base**
+**Settings → Privacy & Security → Location Services → What's Our Next?**
 
-Allow foreground location access, return to the app, and tap **Use my location** again. Date-A-Base does not require background location access.
+Allow foreground location access, return to the app, and tap **Use my location** again. What's Our Next? does not require background location access.
 
 ### How can I change an unsuitable recommendation?
 
@@ -45,17 +45,17 @@ Use the replacement action on the itinerary stop, or generate another itinerary.
 
 ### Are venue hours, prices, dietary accommodations, and availability guaranteed?
 
-No. Date-A-Base combines AI-generated recommendations with third-party web information that can be incomplete, incorrect, or outdated. Prices are estimates and generally exclude transportation, tax, and gratuity. Verify current hours, accessibility, dietary accommodations, age restrictions, pricing, reservation requirements, and availability directly with each venue before leaving.
+No. What's Our Next? combines AI-generated recommendations with third-party web information that can be incomplete, incorrect, or outdated. Prices are estimates and generally exclude transportation, tax, and gratuity. Verify current hours, accessibility, dietary accommodations, age restrictions, pricing, reservation requirements, and availability directly with each venue before leaving.
 
 For allergies, medical dietary requirements, or accessibility needs, contact the venue directly. Do not rely solely on an AI-generated note.
 
-### Does Date-A-Base make reservations or purchases?
+### Does What's Our Next? make reservations or purchases?
 
 No. The current pilot may link to external maps, websites, phone numbers, or reservation services, but it does not confirm reservations, purchase tickets, arrange transportation, or guarantee admission.
 
 ### Why does a map or external link fail to open?
 
-Confirm that your device has an appropriate maps or browser application and an internet connection. You can also copy or search the displayed venue name and address manually. External services are operated independently from Date-A-Base.
+Confirm that your device has an appropriate maps or browser application and an internet connection. You can also copy or search the displayed venue name and address manually. External services are operated independently from What's Our Next?.
 
 ### Where is my itinerary stored?
 
@@ -63,7 +63,7 @@ The current pilot stores an activated itinerary locally on your device. It does 
 
 ### How do I reset the app?
 
-First, end any active itinerary and reopen the app. If the problem continues, delete Date-A-Base from your device and reinstall it from TestFlight. Reinstalling removes locally stored application data, including an active itinerary.
+First, end any active itinerary and reopen the app. If the problem continues, delete What's Our Next? from your device and reinstall it from TestFlight. Reinstalling removes locally stored application data, including an active itinerary.
 
 ### How do I report an unsafe or inappropriate recommendation?
 
@@ -71,18 +71,18 @@ Do not visit a venue or follow a suggestion that appears unsafe, closed, unsuita
 
 ### How do I send TestFlight feedback?
 
-You can submit feedback from Date-A-Base's page in the TestFlight app. TestFlight may allow you to attach a screenshot and diagnostic information. Review screenshots before sending them because they may contain itinerary or location information. You may also email support directly.
+You can submit feedback from What's Our Next?'s page in the TestFlight app. TestFlight may allow you to attach a screenshot and diagnostic information. Review screenshots before sending them because they may contain itinerary or location information. You may also email support directly.
 
 ## Privacy
 
-Review the current [Date-A-Base Privacy Policy](docs/PRIVACY.md) for information about location, planning inputs, local storage, AI processing, service providers, retention, and user choices.
+Review the current [What's Our Next? Privacy Policy](docs/PRIVACY.md) for information about location, planning inputs, local storage, AI processing, service providers, retention, and user choices.
 
 The policy must also be published at a public HTTPS address before it can be used as the App Store privacy-policy URL.
 
 ## Contact
 
 **Email:** [smiley0418@gmail.com](mailto:smiley0418@gmail.com)  
-**Product:** Date-A-Base  
+**Product:** What's Our Next?  
 **Pilot platform:** Apple TestFlight for iOS
 
-© 2026 Date-A-Base. All rights reserved.
+© 2026 What's Our Next?. All rights reserved.
